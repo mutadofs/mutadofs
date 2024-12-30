@@ -9,7 +9,7 @@
 > </br>
 > 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝: Node.js | TypeScript | PostgreSQL | MongoDB | Prisma ORM;
 > </br>
-> 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬: Git | GitHub | Clean Code | Figma;
+> 𝐓𝐨𝐨𝐥𝐬: Git | GitHub | Clean Code | Figma;
 > </br>
 > </br>
 > [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00875f?style=flat-square&logo=Read.cv&logoColor=white&link=https://mfelipesilva-v2.vercel.app)](https://mfelipesilva-v2.vercel.app)
